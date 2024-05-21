@@ -1,1 +1,1 @@
-OLa,sou uma estudante do alura,estou me desenvolvendo na linguagem do JavaScript,utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+Ola,sou uma estudante do Alura,e estou me desenvolvendo no JavaScript,utilizo esse espaço para minha organização e compartilhamento dos meus projetos
